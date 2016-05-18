@@ -1,0 +1,4 @@
+---
+# Beetbox settings.
+beet_project: drupal
+beet_domain: "<%= yo_domain %>"
